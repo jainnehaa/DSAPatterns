@@ -1,10 +1,9 @@
 # DSAPatterns
-Repo with DSA Patterns
+Practice Repo with DSA Patterns
 
 References : 
-* DSA Pattern Sheet by Kusha Vijay 
-* Various Github Repos for Code
-* Leetcode
-* GeeksForGeeks 
+* DSA Pattern Sheets (by Kusha Vijay etc)
+* Github Repos
+* Leetcode, GeeksForGeeks, InterviewBit, Hackerrank etc
 * Youtube Channels
 * etc
